@@ -8,8 +8,8 @@
 
 <b>제작 및 검수에 참여한 사람들:</b>
 
-- [신소영](@0sophy1)
-- [최인호](@q-inho)
+- 신소영 - @0sophy1
+- 최인호 - @q-inho
 
 <b>많은 도움이 된 자료들</b>
 1. [Qiskit 공식 교육 자료](http://qiskit.org/learn)
