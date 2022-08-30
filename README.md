@@ -29,16 +29,20 @@ Lecture 0: Into the rabbit hole [Link](https://github.com/QuantumComputingKorea/
 
 Lecture 1: 게이트와 양자 회로 기본 작성법
 배울 내용
->Single qubit gate [Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture1/lecture%201-0%20-%20%EB%8B%A8%EC%9D%BC%20%ED%81%90%EB%B9%84%ED%8A%B8%20%EA%B2%8C%EC%9D%B4%ED%8A%B8.ipynb)
->multiple qubit gate [Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture1/lecture%201-1%20-%20%EB%8B%A4%EC%A4%91%20%ED%81%90%EB%B9%84%ED%8A%B8%20%EA%B2%8C%EC%9D%B4%ED%8A%B8.ipynb)
->[arriers and Properties of Quantum Circuit [Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture1/lecture%201-2%20-%20%EB%B0%B0%EB%A6%AC%EC%96%B4%EC%99%80%20%EC%96%91%EC%9E%90%ED%9A%8C%EB%A1%9C%EC%9D%98%20%ED%8A%B9%EC%84%B1.ipynb)
+>Single qubit gate ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture1/lecture%201-0%20-%20%EB%8B%A8%EC%9D%BC%20%ED%81%90%EB%B9%84%ED%8A%B8%20%EA%B2%8C%EC%9D%B4%ED%8A%B8.ipynb))
+
+>multiple qubit gate ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture1/lecture%201-1%20-%20%EB%8B%A4%EC%A4%91%20%ED%81%90%EB%B9%84%ED%8A%B8%20%EA%B2%8C%EC%9D%B4%ED%8A%B8.ipynb))
+
+>Barriers and Properties of Quantum Circuit ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture1/lecture%201-2%20-%20%EB%B0%B0%EB%A6%AC%EC%96%B4%EC%99%80%20%EC%96%91%EC%9E%90%ED%9A%8C%EB%A1%9C%EC%9D%98%20%ED%8A%B9%EC%84%B1.ipynb))
+
 >>Add barriers  
 >>Basic info of Quantum Circuit - Depth  
 >>Manipulate quantum circuit - extend  
 >Sample test + lab materials  
 
 Lecture 2: 양자 회로의 측정과 OpenQasm
-배울 내용 [Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture2/lecture%202%20-%20%EC%96%91%EC%9E%90%20%ED%9A%8C%EB%A1%9C%EC%9D%98%20%EC%B8%A1%EC%A0%95%EA%B3%BC%20OpenQasm.ipynb)
+배울 내용 ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture2/lecture%202%20-%20%EC%96%91%EC%9E%90%20%ED%9A%8C%EB%A1%9C%EC%9D%98%20%EC%B8%A1%EC%A0%95%EA%B3%BC%20OpenQasm.ipynb))
+
 >Measure quantum circuit  
 >Syntax  
 >How to use classical register  
