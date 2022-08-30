@@ -23,21 +23,22 @@
 
 이 강의는 선형대수학과 양자역학이 낯선 분들을 위한 두개의 선행 노트와 함께 실질적인 개발자 시험을 준비하는데 도움이 될 다섯 개의 Jupyter notebook으로 구성되어 있습니다.  교재의 구성은 다음과 같습니다.
 
-Lecture 0: Into the rabbit hole
+[Lecture 0: Into the rabbit hole](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture0/lecture%200-0%20%20%EC%96%91%EC%9E%90%EC%BB%B4%ED%93%A8%ED%84%B0%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98.ipynb)
 1. 선형대수
 2. 양자역학
 
 Lecture 1: 게이트와 양자 회로 기본 작성법
 배울 내용
->Single qubit gate  
->multiple qubit gate  
->Add barriers  
->Basic info of Quantum Circuit - Depth  
->Manipulate quantum circuit - extend  
+>[Single qubit gate  ](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture1/lecture%201-0%20-%20%EB%8B%A8%EC%9D%BC%20%ED%81%90%EB%B9%84%ED%8A%B8%20%EA%B2%8C%EC%9D%B4%ED%8A%B8.ipynb
+>[multiple qubit gate  ](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture1/lecture%201-1%20-%20%EB%8B%A4%EC%A4%91%20%ED%81%90%EB%B9%84%ED%8A%B8%20%EA%B2%8C%EC%9D%B4%ED%8A%B8.ipynb)
+>[Barriers and Properties of Quantum Circuit](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture1/lecture%201-2%20-%20%EB%B0%B0%EB%A6%AC%EC%96%B4%EC%99%80%20%EC%96%91%EC%9E%90%ED%9A%8C%EB%A1%9C%EC%9D%98%20%ED%8A%B9%EC%84%B1.ipynb)
+>>Add barriers  
+>>Basic info of Quantum Circuit - Depth  
+>>Manipulate quantum circuit - extend  
 >Sample test + lab materials  
 
-Lecture 2: 양자 회로의 측정과 OpenQasm
-배울 내용
+[Lecture 2: 양자 회로의 측정과 OpenQasm
+배울 내용](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture2/lecture%202%20-%20%EC%96%91%EC%9E%90%20%ED%9A%8C%EB%A1%9C%EC%9D%98%20%EC%B8%A1%EC%A0%95%EA%B3%BC%20OpenQasm.ipynb)
 >Measure quantum circuit  
 >Syntax  
 >How to use classical register  
