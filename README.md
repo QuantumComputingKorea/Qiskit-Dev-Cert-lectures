@@ -27,7 +27,7 @@ Lecture 0: Into the rabbit hole ([Link](https://github.com/QuantumComputingKorea
 1. 선형대수
 2. 양자역학
 
-Lecture 1: 게이트와 양자 회로 기본 작성법
+**Lecture 1: 게이트와 양자 회로 기본 작성법**
 
 배울 내용
 >Single qubit gate ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture1/lecture%201-0%20-%20%EB%8B%A8%EC%9D%BC%20%ED%81%90%EB%B9%84%ED%8A%B8%20%EA%B2%8C%EC%9D%B4%ED%8A%B8.ipynb))
@@ -41,7 +41,7 @@ Lecture 1: 게이트와 양자 회로 기본 작성법
 >
 >Sample test + lab materials  
 
-Lecture 2: 양자 회로의 측정과 OpenQasm ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture2/lecture%202%20-%20%EC%96%91%EC%9E%90%20%ED%9A%8C%EB%A1%9C%EC%9D%98%20%EC%B8%A1%EC%A0%95%EA%B3%BC%20OpenQasm.ipynb))
+**Lecture 2: 양자 회로의 측정과 OpenQasm** ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture2/lecture%202%20-%20%EC%96%91%EC%9E%90%20%ED%9A%8C%EB%A1%9C%EC%9D%98%20%EC%B8%A1%EC%A0%95%EA%B3%BC%20OpenQasm.ipynb))
 
 배울 내용 
 
@@ -54,7 +54,7 @@ Lecture 2: 양자 회로의 측정과 OpenQasm ([Link](https://github.com/Quantu
 >
 >Sample test + lab materials  
 
-Lecture 3: 양자 백엔드(시뮬레이터, 실제 백엔드)에 양자회로 실행하기 ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture3/Lecture%203%20-%20%EC%96%91%EC%9E%90%20%ED%9A%8C%EB%A1%9C%20%EC%8B%A4%ED%96%89%EA%B3%BC%20%EB%B0%B1%EC%97%94%EB%93%9C.ipynb))
+**Lecture 3: 양자 백엔드(시뮬레이터, 실제 백엔드)에 양자회로 실행하기** ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture3/Lecture%203%20-%20%EC%96%91%EC%9E%90%20%ED%9A%8C%EB%A1%9C%20%EC%8B%A4%ED%96%89%EA%B3%BC%20%EB%B0%B1%EC%97%94%EB%93%9C.ipynb))
 
 배울 내용  
 
@@ -67,7 +67,8 @@ Lecture 3: 양자 백엔드(시뮬레이터, 실제 백엔드)에 양자회로 �
 >Sample test + lab materials
 
 
-Lecture 4: 양자 회로 및 회로의 정보와 실행 결과를 그리고 해석하기  
+**Lecture 4: 양자 회로 및 회로의 정보와 실행 결과를 그리고 해석하기**
+
 배울 내용  
 >Visualization  
 >>Circuit visualization  
@@ -76,7 +77,8 @@ Lecture 4: 양자 회로 및 회로의 정보와 실행 결과를 그리고 해�
 >
 >Sample test + lab materials  
 
-Lecture 5: 유용한 기능들
+**Lecture 5: 유용한 기능들**
+
 배울 내용  
 >Quantum Information and Auxiliary functions   
 >Compare and Construct quantum information  
