@@ -53,7 +53,8 @@ Lecture 2: 양자 회로의 측정과 OpenQasm
 >Sample test + lab materials  
 
 Lecture 3: 양자 백엔드(시뮬레이터, 실제 백엔드)에 양자회로 실행하기  
-배울 내용  
+배울 내용  ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture3/Lecture%203%20-%20%EC%96%91%EC%9E%90%20%ED%9A%8C%EB%A1%9C%20%EC%8B%A4%ED%96%89%EA%B3%BC%20%EB%B0%B1%EC%97%94%EB%93%9C.ipynb))
+
 >circuit execution commands and options   
 >Backend options and how to use  
 >>Basic Aer  
