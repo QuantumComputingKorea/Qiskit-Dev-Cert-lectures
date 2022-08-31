@@ -23,7 +23,7 @@
 
 이 강의는 선형대수학과 양자역학이 낯선 분들을 위한 두개의 선행 노트와 함께 실질적인 개발자 시험을 준비하는데 도움이 될 다섯 개의 Jupyter notebook으로 구성되어 있습니다.  교재의 구성은 다음과 같습니다.
 
-Lecture 0: Into the rabbit hole ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture0/lecture%200-0%20%20%EC%96%91%EC%9E%90%EC%BB%B4%ED%93%A8%ED%84%B0%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98.ipynb))
+**Lecture 0: Into the rabbit hole** ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture0/lecture%200-0%20%20%EC%96%91%EC%9E%90%EC%BB%B4%ED%93%A8%ED%84%B0%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98.ipynb))
 1. 선형대수
 2. 양자역학
 
