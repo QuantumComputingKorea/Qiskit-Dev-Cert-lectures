@@ -37,6 +37,7 @@ Lecture 1: 게이트와 양자 회로 기본 작성법
 >>Add barriers  
 >>Basic info of Quantum Circuit - Depth  
 >>Manipulate quantum circuit - extend  
+>
 >Sample test + lab materials  
 
 Lecture 2: 양자 회로의 측정과 OpenQasm
