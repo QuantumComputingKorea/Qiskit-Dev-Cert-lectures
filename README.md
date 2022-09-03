@@ -67,7 +67,7 @@
 >Sample test + lab materials
 
 
-**Lecture 4: 양자 회로 및 회로의 정보와 실행 결과를 그리고 해석하기**
+**Lecture 4: 양자 회로 및 회로의 정보와 실행 결과를 그리고 해석하기** ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture4/Lecture%204%20-%20%EC%96%91%EC%9E%90%20%ED%9A%8C%EB%A1%9C%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EB%A7%9F%20%EA%B2%B0%EA%B3%BC%20%EB%B6%84%EC%84%9D.ipynb))
 
 배울 내용  
 >Visualization  
