@@ -77,7 +77,7 @@
 >
 >Sample test + lab materials  
 
-**Lecture 5: 유용한 기능들**
+**Lecture 5: 유용한 기능들** ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture5/Lecture%205%20-%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EA%B8%B0%EB%8A%A5%EB%93%A4.ipynb))
 
 배울 내용  
 >Quantum Information and Auxiliary functions   
