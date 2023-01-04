@@ -1,7 +1,7 @@
 
 # Qiskit-Dev-Cert-lectures
 
-이 노트들은 한국의 Qiskit Community 멤버들이 Qiskit 개발자 자격 시험을 준비할때 도움이 되기 위해 만들어졌습니다.
+이 노트들은 한국의 Qiskit Community 멤버들이 Qiskit 개발자 자격 시험을 준비할때 도움이 되기 위해 만들어졌습니다. 각 강의 영상들은 개방된 오픈소스 [오픈튜토리얼스](https://www.opentutorials.org/course/4973)에서 확인할 수 있습니다.
 
 
 이 강의 노트를 커뮤니티 여러분과 함께 만들어가기 원합니다! 기여를 원하시는 분들은 Readme의 "제작 및 검수에 참여한 사람들"에 여러분의 이름을 추가하신 후 컨텐츠를 추가, 수정하여 PR을 보내주세요.
