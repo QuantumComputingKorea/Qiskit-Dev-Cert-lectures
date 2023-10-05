@@ -10,6 +10,7 @@
 
 - [신소영](https://github.com/0sophy1)
 - [최인호](https://github.com/q-inho)
+- [박시헌](https://github.com/Siheon-Park)
 
 <b>많은 도움이 된 자료들</b>
 1. [Qiskit 공식 교육 자료](http://qiskit.org/learn)
