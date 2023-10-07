@@ -1,4 +1,4 @@
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -y
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
 source $HOME/.cargo/env
 conda create -n qiskit-2x python==3.8 -y
 conda activate qiskit-2x
