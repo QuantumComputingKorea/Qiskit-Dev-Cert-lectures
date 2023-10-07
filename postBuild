@@ -1,6 +1,6 @@
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -y
 source $HOME/.cargo/env
-conda create -n qiskit-2x python==3.8
+conda create -n qiskit-2x python==3.8 -y
 conda activate qiskit-2x
 pip install matplotlib==3.4.3 ipywidgets ipykernel pylatexenc seaborn
 python -m ipykernel install --user --name qiskit-2x --display-name "Python3.8 (qiskit-2x)"
