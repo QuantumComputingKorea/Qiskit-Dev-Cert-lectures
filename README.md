@@ -1,18 +1,20 @@
 
 # Qiskit-Dev-Cert-lectures
 
+## 소개
+
 이 노트들은 한국의 Qiskit Community 멤버들이 Qiskit 개발자 자격 시험을 준비할때 도움이 되기 위해 만들어졌습니다. 각 강의 영상들은 개방된 오픈소스 [오픈튜토리얼스](https://www.opentutorials.org/course/4973)에서 확인할 수 있습니다.
 
 
 이 강의 노트를 커뮤니티 여러분과 함께 만들어가기 원합니다! 기여를 원하시는 분들은 Readme의 "제작 및 검수에 참여한 사람들"에 여러분의 이름을 추가하신 후 컨텐츠를 추가, 수정하여 PR을 보내주세요.
 
-<b>제작 및 검수에 참여한 사람들:</b>
+### 제작 및 검수에 참여한 사람들
 
 - [신소영](https://github.com/0sophy1)
 - [최인호](https://github.com/q-inho)
 - [박시헌](https://github.com/Siheon-Park) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Siheon-Park/Qiskit-Dev-Cert-lectures/binder-trial)
 
-<b>많은 도움이 된 자료들</b>
+### 많은 도움이 된 자료들
 1. [Qiskit 공식 교육 자료](http://qiskit.org/learn)
 2. [ 공식 샘플 테스트](https://www.ibm.com/training/certification/C0010300)
 3. [ James Weaver의 Qiskit 개발자 시험 준비 가이드](https://slides.com/javafxpert/prep-qiskit-dev-cert-exam)
@@ -21,6 +23,8 @@
 6.  [UIC Quantum Club의 Qiskit 개발자 시험 준비 강의 시리즈](https://www.youtube.com/playlist?list=PL3ZVRVvGqF1cH9SwNKBY-po3HXUPMlghg)
 7.  [Bartu Bisgin의 Qiskit 자격증 시험 워크북](https://github.com/bartubisgin/qiskit-certified-exam-workbook)
 8.  [Dimple12M의 가이드](https://github.com/dimple12M/Qiskit-Certification-Guide)
+
+## 강의 구성
 
 이 강의는 선형대수학과 양자역학이 낯선 분들을 위한 두개의 선행 노트와 함께 실질적인 개발자 시험을 준비하는데 도움이 될 다섯 개의 Jupyter notebook으로 구성되어 있습니다.  교재의 구성은 다음과 같습니다.
 
@@ -86,3 +90,7 @@
 >Use Qiskit Toolkit  
 >Display and use system information  
 >Sample test + lab materials  
+
+## 유의사항
+
+Qiskit 개발자 자격 시험은 `v0.2x.x`를 기준으로 합니다. 따라서 이 강의 노트들은 `v0.2x.x` 버전을 기준으로 작성되어 최신 Qiskit 버전에서는 작동하지 않을 수 있습니다. 따라서, [링크](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/HOWTO.md)를 참고하여 `v0.2x.x` 버전을 설치하거나, 바인더( [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Siheon-Park/Qiskit-Dev-Cert-lectures/main) )를 통해 강의 노트를 실행해주세요.
