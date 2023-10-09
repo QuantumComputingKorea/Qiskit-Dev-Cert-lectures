@@ -24,7 +24,7 @@
 
 ## 유의사항
 
-Qiskit 개발자 자격 시험은 `v0.2x.x`를 기준으로 합니다. 따라서 이 강의 노트들은 `v0.2x.x` 버전을 기준으로 작성되어 최신 Qiskit 버전에서는 작동하지 않을 수 있습니다. 따라서, 로컬 환경에서 Qiskit `v0.2x.x`를 설치하거나,
+Qiskit 개발자 자격 시험은 `v0.2x.x`를 기준으로 합니다. 따라서 이 강의 노트들은 `v0.2x.x` 버전을 기준으로 작성되어 최신 Qiskit 버전에서는 작동하지 않을 수 있습니다. 따라서, 로컬 환경 또는 [IBM Quantum Lab](https://lab.quantum-computing.ibm.com/)에서 Qiskit `v0.2x.x`를 아래를 참고하여 설치하거나, [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/HEAD) 에서 강의 자료를 실행해주세요.
 
 ```bash
 conda create -n qiskit-2x python=3.8
@@ -33,7 +33,6 @@ pip install -U qiskit==0.2x.x
 pip install matplotlib==3.4.3 ipywidgets ipykernel pylatexenc seaborn
 ```
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/HEAD) 에서 강의 자료를 실행해주세요.
 ## 강의 구성
 
 이 강의는 선형대수학과 양자역학이 낯선 분들을 위한 두개의 선행 노트와 함께 실질적인 개발자 시험을 준비하는데 도움이 될 다섯 개의 Jupyter notebook으로 구성되어 있습니다.
