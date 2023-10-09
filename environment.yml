@@ -1,0 +1,11 @@
+name: qiskit-2x
+dependencies:
+  - python=3.8
+  - pip=23.2.1
+  - pip:
+    - qiskit==0.29.1
+    - matplotlib==3.4.3
+    - ipykernel==6.25.2
+    - ipywidgets==8.1.1
+    - pylatexenc==2.10
+    - seaborn==0.13.0

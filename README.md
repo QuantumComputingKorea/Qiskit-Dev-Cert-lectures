@@ -6,13 +6,13 @@
 
 이 강의 노트를 커뮤니티 여러분과 함께 만들어가기 원합니다! 기여를 원하시는 분들은 Readme의 "제작 및 검수에 참여한 사람들"에 여러분의 이름을 추가하신 후 컨텐츠를 추가, 수정하여 PR을 보내주세요.
 
-<b>제작 및 검수에 참여한 사람들:</b>
+### 제작 및 검수에 참여한 사람들
 
 - [신소영](https://github.com/0sophy1)
 - [최인호](https://github.com/q-inho)
 - [박시헌](https://github.com/Siheon-Park)
 
-<b>많은 도움이 된 자료들</b>
+### 많은 도움이 된 자료들
 1. [Qiskit 공식 교육 자료](http://qiskit.org/learn)
 2. [ 공식 샘플 테스트](https://www.ibm.com/training/certification/C0010300)
 3. [ James Weaver의 Qiskit 개발자 시험 준비 가이드](https://slides.com/javafxpert/prep-qiskit-dev-cert-exam)
@@ -22,7 +22,21 @@
 7.  [Bartu Bisgin의 Qiskit 자격증 시험 워크북](https://github.com/bartubisgin/qiskit-certified-exam-workbook)
 8.  [Dimple12M의 가이드](https://github.com/dimple12M/Qiskit-Certification-Guide)
 
-이 강의는 선형대수학과 양자역학이 낯선 분들을 위한 두개의 선행 노트와 함께 실질적인 개발자 시험을 준비하는데 도움이 될 다섯 개의 Jupyter notebook으로 구성되어 있습니다.  교재의 구성은 다음과 같습니다.
+## 유의사항
+
+Qiskit 개발자 자격 시험은 `v0.2x.x`를 기준으로 합니다. 따라서 이 강의 노트들은 `v0.2x.x` 버전을 기준으로 작성되어 최신 Qiskit 버전에서는 작동하지 않을 수 있습니다. 따라서, 로컬 환경 또는 [IBM Quantum Lab](https://lab.quantum-computing.ibm.com/)에서 Qiskit `v0.2x.x`를 아래를 참고하여 설치하거나, [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/HEAD) 에서 강의 자료를 실행해주세요.
+
+```bash
+conda create -n qiskit-2x python=3.8
+conda activate qiskit-2x
+pip install -U qiskit==0.2x.x
+pip install matplotlib==3.4.3 ipywidgets ipykernel pylatexenc seaborn
+```
+
+## 강의 구성
+
+이 강의는 선형대수학과 양자역학이 낯선 분들을 위한 두개의 선행 노트와 함께 실질적인 개발자 시험을 준비하는데 도움이 될 다섯 개의 Jupyter notebook으로 구성되어 있습니다.
+교재의 구성은 다음과 같습니다.
 
 **Lecture 0: Into the rabbit hole** ([Link](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures/blob/main/Lecture0/lecture%200-0%20%20%EC%96%91%EC%9E%90%EC%BB%B4%ED%93%A8%ED%84%B0%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98.ipynb))
 1. 선형대수
