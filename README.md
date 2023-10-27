@@ -5,7 +5,7 @@
 
 이 강의 노트를 커뮤니티 여러분과 함께 만들어가기 원합니다! 기여를 원하시는 분들은 Readme의 "제작 및 검수에 참여한 사람들"에 여러분의 이름을 추가하신 후 컨텐츠를 추가, 수정하여 PR을 보내주세요.
 
-별도로 양자 컴퓨팅 개발자 교육을 위한 강의에서 사용된 발표 자료입니다.
+양자 컴퓨팅 개발자 교육을 위한 강의에서 사용된 추가적인 발표 자료입니다.
 - [2023 부산 양자컴퓨팅 개발자 교육 프로그램](https://github.com/q-inho/presentation/tree/main/2023%20Busan%20Quantum%20Computing%20Development%20Education%20Program)
 
 
